@@ -7,4 +7,3 @@
 - 🛒 I am currently developing custom front end solutions for e-commerce websites on Shopify.
 - 🤝 I am looking to collaborate on any type of e-commerce project especially those that have to do with Shopify.
 - 📫 How to reach me: seroujguidanian@gmail.com
-- ⚡️ Fun fact: Before becoming a software engineer I was actually the lead singer for multiple rock and metal bands🎤
